@@ -1,0 +1,14 @@
+[
+    {
+        "n_patente": "khh722",
+        "marca": "chevrolet",
+        "modelo": "2012",
+        "tipo": "particular",
+        "a\u00f1o": 2024,
+        "kilometraje": 15000,
+        "precio_compra": 5000000.0,
+        "precio_venta": 7.0,
+        "estado": "disponible",
+        "id": 1
+    }
+]
